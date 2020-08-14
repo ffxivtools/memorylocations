@@ -1,6 +1,6 @@
 {
-  "weatherOffset":30149456,
-  "moveSpeedOffset":29785688,
-  "positionOffset":160,
-  "flightPositionOffset":30464864
+  "weatherOffset":"0x1CC0B50",
+  "moveSpeedOffset":"0x1C67E58",
+  "positionOffset":"0xA0",
+  "flightPositionOffset":"0x1D0DB60"
  }
