@@ -2,6 +2,6 @@
   "weatherOffset":"0x1CC0B50",
   "moveSpeedOffset":"0x1D0DA88",
   "positionOffset":"0xA0",
-  "flightPositionOffset":"0x1D0CB60",
+  "flightPositionOffset":"0x1D0DB60",
   "mapId":"0x1D09B54"
  }
