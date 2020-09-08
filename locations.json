@@ -1,7 +1,7 @@
 {
-  "weatherOffset":"0x1CBFB50",
-  "moveSpeedOffset":"0x1D0CA88",
+  "weatherOffset":"0x1CC0B50",
+  "moveSpeedOffset":"0x1D0DA88",
   "positionOffset":"0xA0",
   "flightPositionOffset":"0x1D0CB60",
-  "mapId":"0x1D08B54"
+  "mapId":"0x1D09B54"
  }
